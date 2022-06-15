@@ -1,5 +1,5 @@
 # zsh essentials
-# https://ianyepan.github.io/posts/moving-away-from-ohmyzsh/
+# inspired from https://ianyepan.github.io/posts/moving-away-from-ohmyzsh/
 
 # Add git status
 # https://salferrarello.com/zsh-git-status-prompt/
